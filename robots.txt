@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapo-shirts-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://mapo-shirts-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
